@@ -4,5 +4,11 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MathCalc</string>
+    <string name="Solucion_de_SEL">Solución de S.E.L</string>
+    <string name="Wellcome_to_MathCalc">Bienvenido MathCalc</string>
+    <string name="Vectores_en_Rn">Vectores en Rn</string>
+    <string name="Operaciones_con_Matrices">&quot;Operaciones con Matrices&quot;</string>
+    <string name="Escalonar_matriz">Escalonar matriz</string>
+    <string name="Eliminacion_Gauss">Solución por eliminación de Gauss</string>
 
 </resources>

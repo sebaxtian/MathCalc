@@ -1,5 +1,26 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/menu_settings"
-        android:title="@string/menu_settings"
-        android:orderInCategory="100" />
+    <item android:id="@+id/Solucion_de_SEL"
+        android:title="@string/Solucion_de_SEL"
+        android:menuCategory="container">
+<menu>
+    <item android:id="@+id/Escalonar" android:menuCategory="secondary" android:title="@string/Escalonar_matriz"/>
+    <item android:id="@+id/Gauss" android:menuCategory="secondary" android:title="@string/Eliminacion_Gauss"/>
+</menu>
+    </item>
+    <item android:id="@string/Vectores_en_Rn" android:title="@string/Vectores_en_Rn" android:menuCategory="container">
+<menu>
+    <item android:id="@+id/item1"/>
+    <item android:id="@+id/item4"/>
+    <item android:id="@+id/item5"/>
+    <item android:id="@+id/item6"/>
+</menu>
+    </item>
+    <item android:id="@string/Operaciones_con_Matrices" android:title="@string/Operaciones_con_Matrices" android:menuCategory="container">
+<menu>
+    <item android:id="@+id/item7"/>
+    <item android:id="@+id/item8"/>
+    <item android:id="@+id/item9"/>
+    <item android:id="@+id/item10"/>
+</menu>
+    </item>
 </menu>
